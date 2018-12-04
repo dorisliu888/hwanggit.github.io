@@ -276,7 +276,7 @@ b{
 }
 
 .caption {
-	margin:0 auto 5px;
+	margin:auto;
 	padding:0% 5% 10%;
 	color:black;
 
